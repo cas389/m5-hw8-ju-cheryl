@@ -34,10 +34,10 @@ header {
 h1 {
   color: white;
   text-transform: uppercase;
-  font-size: 7rem;
+  font-size: 5rem;
   text-align: center;
   padding: 4rem 0rem;
-  line-height: 6.5rem;
+  line-height: 5rem;
 }
 
 
@@ -89,6 +89,18 @@ Responsive Web Coding - 768px by 1024px (Tablet)
 
 ===========================*/
 @media screen and (min-width: 575px) {
+  h1 {
+    width: 400px;
+    margin: 0 auto;
+  }
+  .boxes {
+    display: flex;
+    width: 100%;
+  }
+  .box {
+    flex: 1;
+    margin: 2rem 3rem;
+  }
 }
 
 /*===========================
