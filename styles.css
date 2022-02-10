@@ -9,3 +9,31 @@
 body {
   font-family: 'Bebas Neue', Impact, sans-serif;
 }
+
+
+
+
+/*===========================
+
+Responsive Web Coding - 768px by 1024px (Tablet)
+
+===========================*/
+@media screen and (min-width: 575px) {
+}
+
+/*===========================
+
+Responsive Web Coding - 1366px by 768px (Laptop)
+
+===========================*/
+@media screen and (min-width: 1366px) {
+}
+
+
+/*===========================
+
+Responsive Web Coding - 1920px by 1080 px (Desktop)
+
+===========================*/
+@media screen and (min-width: 1500px) {
+}
