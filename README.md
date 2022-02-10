@@ -6,3 +6,5 @@ Assignement 8 - Box Challenge for MMC6278 class
 
 ## Outside Resources
 I couldn't remember the CSS property for line-height, so I utilized W3 Schools in order to find that out: https://www.w3schools.com/cssref/pr_dim_line-height.asp
+
+I also didn't remember how to give a shadow on the boxes, so I utilized W3 Schools for that as well: https://www.w3schools.com/css/css3_shadows.asp
