@@ -6,11 +6,43 @@
   --box-color-3: #A5FF01;
 }
 
+
+/*===========================
+
+Reset Rule
+
+===========================*/
+
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+
+
+/*===========================
+
+Body and Header CSS
+
+===========================*/
+
 body {
   font-family: 'Bebas Neue', Impact, sans-serif;
 }
 
+header {
+  background-color: #6003C3;
+}
 
+h1 {
+  color: white;
+  text-transform: uppercase;
+  font-size: 7rem;
+  text-align: center;
+  padding: 4rem 0rem;
+  line-height: 6.5rem;
+}
 
 
 /*===========================
