@@ -109,6 +109,13 @@ Responsive Web Coding - 1366px by 768px (Laptop)
 
 ===========================*/
 @media screen and (min-width: 1366px) {
+  .boxes {
+    font-size: 8rem;
+  }
+  .box {
+    margin: 2rem 8rem;
+    padding: 2rem 4rem;
+  }
 }
 
 
@@ -118,4 +125,7 @@ Responsive Web Coding - 1920px by 1080 px (Desktop)
 
 ===========================*/
 @media screen and (min-width: 1500px) {
+  .box {
+    margin: 2rem 12rem;
+  }
 }
