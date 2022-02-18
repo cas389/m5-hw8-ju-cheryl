@@ -1,10 +1,8 @@
 // Create an Array of at least 3 losing messages
-
 let losingMessage = ["Bummer, you lost!", "You Lose.", "Try again, because you lost!"];
 console.log(losingMessage);
 
 // Create variables to count wins and losses
-
 let winScore = 0;
 let loseScore = 0;
 console.log("Your win score:", winScore);
@@ -20,10 +18,20 @@ console.log(losses);
 
 
 // target all .box elements and attach a click event listener to each one using a loop
+var box = document.querySelectorAll('.box');
+for (var i = 0; i < box.length; i++) {
+  box[i].onclick = clickedBox
+}
 
 // within each click event...
 // determine which box was clicked with 'this.textContent' or event.target.textContent
 // convert that value to a Number and store it to a variable
+function clickedBox(event) {
+   console.log(event.target)
+   clickedBox.textContent = event.target.textContent;
+}
+
+
 
 // create a random number between 1-3 and store it to a variable
 // This number will represent the winning box
