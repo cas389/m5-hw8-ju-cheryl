@@ -14,3 +14,5 @@ Setting up Flexbox for the Tablet & Desktop Versions, I utilized https://css-tri
 I used W3Schools in order to figure out how to create an array: https://www.w3schools.com/js/js_arrays.asp
 
 I used W3Schools in order to figure out how to run random numbers: https://www.w3schools.com/js/js_random.asp
+
+I used Techstacker in order to figure out how to add numbers each time to the win/losses: https://techstacker.com/count-number-of-clicks-on-an-element-with-javascript/

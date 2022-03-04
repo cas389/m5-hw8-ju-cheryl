@@ -47,12 +47,14 @@ function clickedBox(event) {
 if (box === randomNumberWinner) {
   console.log("You won!");
   message.textContent = "You won!";
-  winScore =+1;
+  winScore += 1;
   wins.textContent = "Wins:" + winScore;
+  console.log("Your win score:", winScore);
   } else {
     console.log(losingMessage);
   message.textContent = losingMessage[Math.floor(Math.random() * 3)];
-  loseScore =+1;
+  loseScore += 1;
   losses.textContent = "Losses:" + loseScore;
+  console.log("Your lose score:", loseScore);
   }
 }
