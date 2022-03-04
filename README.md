@@ -12,3 +12,5 @@ I also didn't remember how to give a shadow on the boxes, so I utilized W3 Schoo
 Setting up Flexbox for the Tablet & Desktop Versions, I utilized https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 I used W3Schools in order to figure out how to create an array: https://www.w3schools.com/js/js_arrays.asp
+
+I used W3Schools in order to figure out how to run random numbers: https://www.w3schools.com/js/js_random.asp
