@@ -2,7 +2,7 @@
 Assignement 8 - Box Challenge for MMC6278 class
 
 ## Issues While Completing Assignment
-
+The biggest issue I had was making it say "winner" after I won. I figured out I was using the wrong variable name. As soon as I fixed this, my game started to work properly.
 
 ## Outside Resources
 I couldn't remember the CSS property for line-height, so I utilized W3 Schools in order to find that out: https://www.w3schools.com/cssref/pr_dim_line-height.asp
